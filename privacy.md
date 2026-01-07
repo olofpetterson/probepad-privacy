@@ -1,7 +1,3 @@
----
-title: ProbePad Privacy Policy
----
-
 # Privacy Policy – ProbePad
 
 ProbePad does not collect, store, or share personal data with the developer or any third parties.
