@@ -1,0 +1,2 @@
+- [Support](./support/)
+- [Privacy Policy](./privacy/)
