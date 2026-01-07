@@ -56,7 +56,7 @@ Common reasons:
 - The target API blocks the request
 
 ### How do I report a bug?
-Please email: **your@email.com**  
+Please email: **probepadapp@gmail.com**  
 Include:
 - iOS version
 - device model
@@ -86,7 +86,7 @@ To update the page:
 
 ## Contact
 If you have questions, contact:
-**olof.petterson@gmail.com**
+**probepadapp@gmail.com**
 
 ## License
 This repository content is provided for informational purposes.
