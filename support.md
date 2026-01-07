@@ -18,7 +18,7 @@ Before contacting support, try:
 4. Check your internet connection
 
 ## Privacy
-Read our Privacy Policy here: **[[PRIVACY POLICY]](https://olofpetterson.github.io/probepad-privacy/)**
+Read our Privacy Policy here: **[Privacy Policy](./privacy.md)**
 
 ---
 
