@@ -13,4 +13,4 @@ ProbePad does not collect, store, or share personal data with the developer or a
 - **Network traffic**: The app only makes network requests that you explicitly execute to the URLs you enter.
 - **Clear data**: You can delete all stored requests and responses in Settings at any time.
 
-If you have questions, contact: **your@email.com**
+If you have questions, contact: **probepadapp@gmail.com**
